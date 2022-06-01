@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет 👋 Меня зовут Александр, я разработчик C++
+Я выпусник курса С++ Яндекс Практикума
 
 <!--
 **kozlov-dev/kozlov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
