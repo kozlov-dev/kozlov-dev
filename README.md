@@ -1,6 +1,9 @@
 
 
-### Привет 👋 Меня зовут Александр, я разработчик C++
+### Привет 👋 Меня зовут Александр, я разработчик C++ <div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
+</div>
+
 Выпусник курса С++ Яндекс Практикума
 
 Стек:
@@ -9,9 +12,6 @@ C++, STL, Git, ООП
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozlov-dev&layout=compact)](https://github.com/kozlov-dev&hide=javascript,html,pascal/github-readme-stats)
 
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
-</div>
 
 <!--
 **kozlov-dev/kozlov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
