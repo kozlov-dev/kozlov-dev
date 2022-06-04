@@ -9,8 +9,8 @@ C++, STL, Git, ООП
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozlov-dev&layout=compact)](https://github.com/kozlov-dev&hide=javascript,html,pascal/github-readme-stats)
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
 </div>
 
 <!--
