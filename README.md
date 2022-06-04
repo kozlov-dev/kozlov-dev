@@ -4,7 +4,7 @@
 Стек:
 C, C++, STL, Git, ООП
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozlov-dev&layout=compact)](https://github.com/kozlov-dev&hide=javascript,html,pascal,c /github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozlov-dev&layout=compact)](https://github.com/kozlov-dev&hide=javascript,html,pascal,c/github-readme-stats)
 
 
 
