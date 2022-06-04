@@ -6,12 +6,12 @@
 Стек:
 C++, STL, Git, ООП
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozlov-dev&layout=compact)](https://github.com/kozlov-dev&hide=javascript,html,Pascal/github-readme-stats)
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozlov-dev&layout=compact)](https://github.com/kozlov-dev&hide=javascript,html/github-readme-stats)
-
 
 <!--
 **kozlov-dev/kozlov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
