@@ -1,7 +1,7 @@
  ## 👨🏻‍💻Обо мне:
 💡 Мне нравиться исследовать новые технологии и разрабатывать программые решения.
-
-🏔️ Хобби - в свободное время я занимаюсь бегом 🏃.
+📗 Сейчас я читаю :[Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development](https://www.amazon.in/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
+🏔️ Хобби - в свободное время я занимаюсь бегом 🏃. 
 
 ## 🛠 Стек технологий:
 
